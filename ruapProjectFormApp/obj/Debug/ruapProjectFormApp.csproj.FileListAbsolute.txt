@@ -1,0 +1,14 @@
+C:\Users\GamingPc\source\repos\ruapProjectFormApp\ruapProjectFormApp\bin\Debug\ruapProjectFormApp.exe.config
+C:\Users\GamingPc\source\repos\ruapProjectFormApp\ruapProjectFormApp\bin\Debug\ruapProjectFormApp.exe
+C:\Users\GamingPc\source\repos\ruapProjectFormApp\ruapProjectFormApp\bin\Debug\ruapProjectFormApp.pdb
+C:\Users\GamingPc\source\repos\ruapProjectFormApp\ruapProjectFormApp\obj\Debug\ruapProjectFormApp.csprojAssemblyReference.cache
+C:\Users\GamingPc\source\repos\ruapProjectFormApp\ruapProjectFormApp\obj\Debug\ruapProjectFormApp.Form1.resources
+C:\Users\GamingPc\source\repos\ruapProjectFormApp\ruapProjectFormApp\obj\Debug\ruapProjectFormApp.Properties.Resources.resources
+C:\Users\GamingPc\source\repos\ruapProjectFormApp\ruapProjectFormApp\obj\Debug\ruapProjectFormApp.csproj.GenerateResource.cache
+C:\Users\GamingPc\source\repos\ruapProjectFormApp\ruapProjectFormApp\obj\Debug\ruapProjectFormApp.exe
+C:\Users\GamingPc\source\repos\ruapProjectFormApp\ruapProjectFormApp\obj\Debug\ruapProjectFormApp.pdb
+C:\Users\GamingPc\source\repos\ruapProjectFormApp\ruapProjectFormApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GamingPc\source\repos\ruapProjectFormApp\ruapProjectFormApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\GamingPc\source\repos\ruapProjectFormApp\ruapProjectFormApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GamingPc\source\repos\ruapProjectFormApp\ruapProjectFormApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\GamingPc\source\repos\ruapProjectFormApp\ruapProjectFormApp\obj\Debug\ruapProjectFormApp.csproj.CopyComplete
